@@ -1,5 +1,4 @@
 # lighthouse-js-fundamentals
-odd.js
 const number = ();
 if(number % 2 === 0){
   console.log("The number is even.")';
